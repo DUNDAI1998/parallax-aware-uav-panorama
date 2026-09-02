@@ -2,17 +2,19 @@
 
 # Parallax-Aware UAV Panorama Stitcher
 
-<p align="center">
-  <img src="fig1_teaser.png" alt="Four synchronized fisheye streams formed into an onboard panoramic perception interface" width="100%">
-</p>
 
-Figure 1. Four synchronized fisheye streams are formed onboard into a reusable ERP interface for panoramic perception and localization.
 
 Official code release for:
 
 > From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs
 
 This repository provides the single-file `quality_full` panorama stitcher used for the paper's 1280x640 ERP pipeline. It converts four synchronized fisheye images into an equirectangular panorama using per-overlap projection-depth selection, temporal hysteresis, CUDA projection, dynamic seams, photometric correction, and two-band fusion.
+
+<p align="center">
+  <img src="fig1_teaser.png" alt="Four synchronized fisheye streams formed into an onboard panoramic perception interface" width="100%">
+</p>
+
+Figure 1. Four synchronized fisheye streams are formed onboard into a reusable ERP interface for panoramic perception and localization.
 
 The raw flight data are distributed separately. See [`DATASET.md`](DATASET.md) for the Dropbox download link and checksum instructions.
 
