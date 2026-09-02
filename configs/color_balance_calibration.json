@@ -1,0 +1,29 @@
+{
+  "description": "New-UAV static per-camera chroma calibration for adaptive-radius stitching",
+  "method": "Median log-chroma from the eight aerial frames used by image_alignment_refinement.json at the stable 30 m projection radius. Dynamic processing estimates luminance only.",
+  "channel_order": "BGR",
+  "source_frame_timestamps": [
+    1778833440.966852,
+    1778833463.415807,
+    1778833486.014838,
+    1778833508.513829,
+    1778833531.11294,
+    1778833553.611977,
+    1778833576.210953,
+    1778833598.810064
+  ],
+  "cameras": {
+    "left_front": {
+      "chroma_gain_bgr": [1.0, 1.0, 1.0]
+    },
+    "right_front": {
+      "chroma_gain_bgr": [0.96847, 1.02522, 1.00715]
+    },
+    "right_back": {
+      "chroma_gain_bgr": [0.96147, 1.03157, 1.00825]
+    },
+    "left_back": {
+      "chroma_gain_bgr": [0.96701, 1.0299, 1.00409]
+    }
+  }
+}
