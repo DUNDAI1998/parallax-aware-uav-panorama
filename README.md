@@ -14,7 +14,7 @@ This repository provides the single-file `quality_full` panorama stitcher used f
   <img src="fig1_teaser.png" alt="Four synchronized fisheye streams formed into an onboard panoramic perception interface" width="100%">
 </p>
 
-Figure 1. Four synchronized fisheye streams are formed onboard into a reusable ERP interface for panoramic perception and localization.
+
 
 The raw flight data are distributed separately. See [`DATASET.md`](DATASET.md) for the Dropbox download link and checksum instructions.
 
