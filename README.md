@@ -1,10 +1,12 @@
 
+
+# Parallax-Aware UAV Panorama Stitcher
+
 <p align="center">
   <img src="fig1_teaser.png" alt="Four synchronized fisheye streams formed into an onboard panoramic perception interface" width="100%">
 </p>
 
 Figure 1. Four synchronized fisheye streams are formed onboard into a reusable ERP interface for panoramic perception and localization.
-# Parallax-Aware UAV Panorama Stitcher
 
 Official code release for:
 
