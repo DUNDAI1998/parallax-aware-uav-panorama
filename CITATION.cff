@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Parallax-Aware UAV Panorama Stitcher"
+message: "If you use this software, please cite the associated TMECH paper."
+type: software
+authors:
+  - family-names: Dai
+    given-names: Dun
+  - family-names: Lu
+    given-names: Ze
+  - family-names: He
+    given-names: Cheng
+  - family-names: Wang
+    given-names: Yaowen
+  - family-names: Quan
+    given-names: Quan
+repository-code: "https://github.com/DUNDAI1998/parallax-aware-uav-panorama"
+license: MIT
+version: 0.1.0

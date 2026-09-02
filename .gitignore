@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.pytest_cache/
+outputs/
+results/
+data/
+*.bag
+*.ulg
+*.mkv
+*.mp4
+*.zip
+*.tar
+*.tar.gz
+*.tar.zst
