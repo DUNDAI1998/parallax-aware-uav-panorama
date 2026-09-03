@@ -82,4 +82,18 @@ The code repository does not include YOLO/VPR weights, raw flight logs, generate
 
 ## Citation and license
 
-Please cite the associated paper through [`CITATION.cff`](CITATION.cff). Code is released under the MIT License. Hardware design material in [`hardware/`](hardware/) uses its separate CERN-OHL-S v2.0 boundary.
+If you use this repository, please cite the associated [arXiv preprint](https://arxiv.org/abs/2609.02319):
+
+```bibtex
+@misc{dai2026multifisheyesensingpanoramicperception,
+  title={From Multi-Fisheye Sensing to Panoramic Perception: A Parallax-Aware Onboard Platform for Ultra-Low-Altitude UAVs},
+  author={Dun Dai and Ze Lu and Cheng He and Yaowen Wang and Quan Quan},
+  year={2026},
+  eprint={2609.02319},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2609.02319}
+}
+```
+
+Machine-readable repository metadata is in [`CITATION.cff`](CITATION.cff). Code is released under the MIT License. Hardware design material in [`hardware/`](hardware/) uses its separate CERN-OHL-S v2.0 boundary.
