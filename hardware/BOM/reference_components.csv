@@ -1,0 +1,6 @@
+category,component_label,quantity,release_status,notes
+propulsion reference,6inch,not enumerated in released assembly,reference only,Third-party geometry and product rights are not released.
+motor reference,2204 motor,not enumerated in released assembly,reference only,Third-party geometry and product rights are not released.
+electronics reference,electrical system,not enumerated in released assembly,reference only,No wiring diagram firmware or electrical specification is supplied.
+custom printable component,PLA printed parts,not enumerated in released assembly,custom design subject to CERN-OHL-S v2.0,Print settings material qualification and strength validation are not supplied.
+custom printable component,TPU printed parts,not enumerated in released assembly,custom design subject to CERN-OHL-S v2.0,Print settings material qualification and strength validation are not supplied.
