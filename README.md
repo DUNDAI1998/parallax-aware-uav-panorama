@@ -1,3 +1,5 @@
+> Hardware: [Open the sanitized panoramic-UAV reference CAD assembly](hardware/) (AP242 STEP, checksum, license boundary, and safety notice). This is a research reference, not a certified or ready-to-fly design.
+
 > Dataset: [Download the released panorama and fisheye data from Dropbox](https://www.dropbox.com/scl/fo/idhp8w5r5s1du2wjt3qjb/AJuZcWHVsMKjzFzAc8-zLTM?rlkey=jh7k1wcxgji3w8qw0rr0vqev4&st=bz72qlfl&dl=0)
 
 
